@@ -16,7 +16,7 @@ This includes notebooks for generating regular geometries (hexgrids and square g
 - [UniformPopulationEstimates.ipynb](https://github.com/ajl2718/python_learning/UniformPopulationEstimates.ipynb)
 
 Cleaning US postal addresses
-- us_postal_address_data_cleaning.ipynb
+- [us_postal_address_data_cleaning.ipynb](https://github.com/ajl2718/python_learning/us_postal_address_data_cleaning.ipynb)
 
 ## Some pandas notes
 
