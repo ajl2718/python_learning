@@ -7,13 +7,16 @@ Some notebooks I have created as I have been learning how to do various things i
 Need to add some sort of requirements.txt file. The required libraries can be found from the imports in the notebooks.
 
 
-## Geospatial stuff
+## Geospatial things
 
 This includes notebooks for generating regular geometries (hexgrids and square grids) and transforming quantities from one geometry to another:
 
 - HexGrid.ipynb
 - RegularGridShapefiles.ipynb
 - UniformPopulationEstimates.ipynb
+
+Cleaning US postal addresses
+- us_postal_address_data_cleaning.ipynb
 
 ## Some pandas notes
 
@@ -28,7 +31,14 @@ From my blog post on Introduction to Webscraping
 
 - Intro_to_webscraping_010121.ipynb
 
-## Some stats stuff
+## Machine learning / AI / generative AI
+
+Re-creating results from papers to understand some techniques for data labelling, large language models and genAI.
+
+- ravfogel_2023.ipynb
+- active_inference.ipynb
+
+## Some stats
 
 Worked examples of things like positive predictive values, linear regression, stats tests:
 
@@ -37,3 +47,4 @@ Worked examples of things like positive predictive values, linear regression, st
 - linear_regression_basics.ipynb
 - ppv.ipynb
 - stats_tests.ipynb
+- ml_stats_animations.ipynb
