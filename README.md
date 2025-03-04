@@ -29,7 +29,7 @@ Some notes that I've made to remind me how to do things that I regularly use lik
 
 Some notes I have been making while reluctantly learning PySpark, including instructions on setup and avoiding some errors with the Java SDK
 
-- [pyspark_examples.ipynb](https://github.com/ajl2718/python_learning/blob/master/pandas_notes.ipynb)
+- [pyspark_examples.ipynb](https://github.com/ajl2718/python_learning/blob/master/pyspark_examples.ipynb)
 
 ## Webscraping
 
