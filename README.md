@@ -25,6 +25,12 @@ Some notes that I've made to remind me how to do things that I regularly use lik
 - [pandas_notes.ipynb](https://github.com/ajl2718/python_learning/blob/master/pandas_notes.ipynb)
 - [time_in_pandas.ipynb](https://github.com/ajl2718/python_learning/blob/master/time_in_pandas.ipynb)
 
+## PySpark notes
+
+Some notes I have been making while reluctantly learning PySpark, including instructions on setup and avoiding some errors with the Java SDK
+
+- [pyspark_examples.ipynb](https://github.com/ajl2718/python_learning/blob/master/pandas_notes.ipynb)
+
 ## Webscraping
 
 From my blog post on Introduction to Webscraping
